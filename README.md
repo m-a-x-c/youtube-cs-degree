@@ -18,7 +18,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 
 # Summary
 
-<table>
+<table style="text-align: center;">
 	<tr>
 		<td colspan="2">Year 1</td>
 		<td colspan="2">Year 2</td>
@@ -37,7 +37,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td><a href="">6.042J Mathematics for Computer Science</a></td>
 		<td><a href="">6.006 Introduction to Algorithms</a></td>
 		<td><a href="">6.046 Design and Analysis of Algorithms</a></td>
-		<td><a href=""></a>6.851 Advanced Data Structures</td>
+		<td><a href="">6.851 Advanced Data Structures</a></td>
 		<td><a href=""></a></td>
 	</tr>
 	<tr>
