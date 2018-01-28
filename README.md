@@ -20,9 +20,9 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 
 <table>
 	<tr>
-		<td colspan="2" style="text-align: center;">Year 1</td>
-		<td colspan="2" style="text-align: center;">Year 2</td>
-		<td colspan="2" style="text-align: center;">Year 3</td>
+		<td style="text-align: center;" colspan="2">Year 1</td>
+		<td style="text-align: center;" colspan="2">Year 2</td>
+		<td style="text-align: center;" colspan="2"">Year 3</td>
 	</tr>
 	<tr>
 		<td style="text-align: center;">Semester 1</td>
@@ -32,37 +32,37 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td style="text-align: center;">Semester 1</td>
 		<td style="text-align: center;">Semester 2</td>
 	</tr>
-	<tr style="text-align: center;">
-		<td><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
-		<td><a href="">6.042J Mathematics for Computer Science</a></td>
-		<td><a href="">6.006 Introduction to Algorithms</a></td>
-		<td><a href="">6.046 Design and Analysis of Algorithms</a></td>
-		<td><a href="">6.851 Advanced Data Structures</a></td>
-		<td><a href=""></a></td>
+	<tr>
+		<td style="text-align: center;"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
+		<td style="text-align: center;"><a href="">6.042J Mathematics for Computer Science</a></td>
+		<td style="text-align: center;"><a href="">6.006 Introduction to Algorithms</a></td>
+		<td style="text-align: center;"><a href="">6.046 Design and Analysis of Algorithms</a></td>
+		<td style="text-align: center;"><a href="">6.851 Advanced Data Structures</a></td>
+		<td style="text-align: center;"><a href=""></a></td>
 	</tr>
-	<tr style="text-align: center;">
-		<td><a href="">6.01SC Introduction to Electrical Engineering and Computer Science I</a></td>
-		<td><a href=""></a></td>
-		<td><a href=""></a></td>
-		<td><a href=""></a></td>
-		<td><a href=""></a></td>
-		<td><a href=""></a></td>
+	<tr>
+		<td style="text-align: center;"><a href="">6.01SC Introduction to Electrical Engineering and Computer Science I</a></td>
+		<td style="text-align: center;"><a href=""></a></td>
+		<td style="text-align: center;"><a href=""></a></td>
+		<td style="text-align: center;"><a href=""></a></td>
+		<td style="text-align: center;"><a href=""></a></td>
+		<td style="text-align: center;"><a href=""></a></td>
 	</tr>
-	<tr style="text-align: center;">
-		<td><a href="">CS 61A The Structure and Interpretation of Computer Programs</a></td>
-		<td><a href=""></a></td>
-		<td><a href=""></a></td>
-		<td><a href=""></a></td>
-		<td><a href=""></a></td>
-		<td><a href=""></a></td>
+	<tr>
+		<td style="text-align: center;"><a href="">CS 61A The Structure and Interpretation of Computer Programs</a></td>
+		<td style="text-align: center;"><a href=""></a></td>
+		<td style="text-align: center;"><a href=""></a></td>
+		<td style="text-align: center;"><a href=""></a></td>
+		<td style="text-align: center;"><a href=""></a></td>
+		<td style="text-align: center;"><a href=""></a></td>
 	</tr>
-	<tr style="text-align: center;">
-		<td><a href="">18.01SC Single Variable Calculus</a></td>
-		<td><a href=""></a></td>
-		<td><a href=""></a></td>
-		<td><a href=""></a></td>
-		<td><a href=""></a></td>
-		<td><a href=""></a></td>
+	<tr>
+		<td style="text-align: center;"><a href="">18.01SC Single Variable Calculus</a></td>
+		<td style="text-align: center;"><a href=""></a></td>
+		<td style="text-align: center;"><a href=""></a></td>
+		<td style="text-align: center;"><a href=""></a></td>
+		<td style="text-align: center;"><a href=""></a></td>
+		<td style="text-align: center;"><a href=""></a></td>
 	</tr>
 
 </table>
@@ -73,7 +73,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 ## Semester 1, Year 1
 Recommend Unit| University | Year | Supplementary Material | Alternative Units |
 :-- | :--: | :--: | :--: | :--:
-[6.0001 Introduction to Computer Science and Programming in Python](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1) | MIT | 2016 | [MIT OCW 6.0001 Course Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | [CS50: Introduction to Computer Science \| Harvard \| 2017](https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu)
+[6.0001 Introduction to Computer Science and Programming in Python](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1) | MIT | 2016 | [MIT OCW 6.0001 Course Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | [• CS50: Introduction to Computer Science \| Harvard \| 2017](https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu)
 [a]() | [a]() | [a]() | [a]() | [a]()
 [a]() | [a]() | [a]() | [a]() | [a]()
 [a]() | [a]() | [a]() | [a]() | [a]()
