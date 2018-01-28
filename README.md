@@ -86,7 +86,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href="">2016</a></td>
 		<td align="center"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT OCW 6.0001 Course Page</a></td>
 		<td align="center">
-			<ul><a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50: Introduction to Computer Science | Harvard | 2017</a></ul>
+			•<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50: Introduction to Computer Science | Harvard | 2017</a>
 		</td>
 	</tr>
 	<tr>
@@ -110,15 +110,211 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 	</tr>
+</table>
 
 
 
 ## Semester 2, Year 1
+<table>
+	<tr>
+		<td align="center"><strong>Recommend Unit</strong></td>
+		<td align="center"><strong>University</strong></td>
+		<td align="center"><strong>Year</strong></td>
+		<td align="center"><strong>Supplementary Material</strong></td>
+		<td align="center"><strong>Alternative Units</strong></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
+		<td align="center"><a href="">MIT</a></td>
+		<td align="center"><a href="">2016</a></td>
+		<td align="center"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT OCW 6.0001 Course Page</a></td>
+		<td align="center">
+			•<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50: Introduction to Computer Science | Harvard | 2017</a>
+		</td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+</table>
 
 ## Semester 1, Year 2
+<table>
+	<tr>
+		<td align="center"><strong>Recommend Unit</strong></td>
+		<td align="center"><strong>University</strong></td>
+		<td align="center"><strong>Year</strong></td>
+		<td align="center"><strong>Supplementary Material</strong></td>
+		<td align="center"><strong>Alternative Units</strong></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
+		<td align="center"><a href="">MIT</a></td>
+		<td align="center"><a href="">2016</a></td>
+		<td align="center"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT OCW 6.0001 Course Page</a></td>
+		<td align="center">
+			•<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50: Introduction to Computer Science | Harvard | 2017</a>
+		</td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+</table>
 
 ## Semester 2, Year 2
+<table>
+	<tr>
+		<td align="center"><strong>Recommend Unit</strong></td>
+		<td align="center"><strong>University</strong></td>
+		<td align="center"><strong>Year</strong></td>
+		<td align="center"><strong>Supplementary Material</strong></td>
+		<td align="center"><strong>Alternative Units</strong></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
+		<td align="center"><a href="">MIT</a></td>
+		<td align="center"><a href="">2016</a></td>
+		<td align="center"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT OCW 6.0001 Course Page</a></td>
+		<td align="center">
+			•<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50: Introduction to Computer Science | Harvard | 2017</a>
+		</td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+</table>
 
 ## Semester 1, Year 3
+<table>
+	<tr>
+		<td align="center"><strong>Recommend Unit</strong></td>
+		<td align="center"><strong>University</strong></td>
+		<td align="center"><strong>Year</strong></td>
+		<td align="center"><strong>Supplementary Material</strong></td>
+		<td align="center"><strong>Alternative Units</strong></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
+		<td align="center"><a href="">MIT</a></td>
+		<td align="center"><a href="">2016</a></td>
+		<td align="center"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT OCW 6.0001 Course Page</a></td>
+		<td align="center">
+			•<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50: Introduction to Computer Science | Harvard | 2017</a>
+		</td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+</table>
 
 ## Semester 2, Year 3
+<table>
+	<tr>
+		<td align="center"><strong>Recommend Unit</strong></td>
+		<td align="center"><strong>University</strong></td>
+		<td align="center"><strong>Year</strong></td>
+		<td align="center"><strong>Supplementary Material</strong></td>
+		<td align="center"><strong>Alternative Units</strong></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
+		<td align="center"><a href="">MIT</a></td>
+		<td align="center"><a href="">2016</a></td>
+		<td align="center"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT OCW 6.0001 Course Page</a></td>
+		<td align="center">
+			•<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50: Introduction to Computer Science | Harvard | 2017</a>
+		</td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+</table>
