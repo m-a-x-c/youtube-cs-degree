@@ -33,7 +33,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td>Semester 2</td>
 	</tr>
 	<tr>
-		<td>[6.0001 Introduction to Computer Science and Programming in Python](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1)</td>
+		<td><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
 		<td>[a]()</td>
 		<td>[a]()</td>
 		<td>[a]()</td>
