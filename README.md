@@ -34,35 +34,35 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	</tr>
 	<tr>
 		<td><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
-		<td>[a]()</td>
-		<td>[a]()</td>
-		<td>[a]()</td>
-		<td>[a]()</td>
-		<td>[a]()</td>
+		<td><a href="">6.042J Mathematics for Computer Science</a></td>
+		<td><a href="">6.006 Introduction to Algorithms</a></td>
+		<td><a href="">6.046 Design and Analysis of Algorithms</a></td>
+		<td><a href=""></a>6.851 Advanced Data Structures</td>
+		<td><a href=""></a></td>
 	</tr>
 	<tr>
-		<td>[a]()</td>
-		<td>[a]()</td>
-		<td>[a]()</td>
-		<td>[a]()</td>
-		<td>[a]()</td>
-		<td>[a]()</td>
+		<td><a href="">6.01SC Introduction to Electrical Engineering and Computer Science I</a></td>
+		<td><a href=""></a></td>
+		<td><a href=""></a></td>
+		<td><a href=""></a></td>
+		<td><a href=""></a></td>
+		<td><a href=""></a></td>
 	</tr>
 	<tr>
-		<td>[a]()</td>
-		<td>[a]()</td>
-		<td>[a]()</td>
-		<td>[a]()</td>
-		<td>[a]()</td>
-		<td>[a]()</td>
+		<td><a href="">CS 61A The Structure and Interpretation of Computer Programs</a></td>
+		<td><a href=""></a></td>
+		<td><a href=""></a></td>
+		<td><a href=""></a></td>
+		<td><a href=""></a></td>
+		<td><a href=""></a></td>
 	</tr>
 	<tr>
-		<td>[a]()</td>
-		<td>[a]()</td>
-		<td>[a]()</td>
-		<td>[a]()</td>
-		<td>[a]()</td>
-		<td>[a]()</td>
+		<td><a href="">18.01SC Single Variable Calculus</a></td>
+		<td><a href=""></a></td>
+		<td><a href=""></a></td>
+		<td><a href=""></a></td>
+		<td><a href=""></a></td>
+		<td><a href=""></a></td>
 	</tr>
 
 </table>
