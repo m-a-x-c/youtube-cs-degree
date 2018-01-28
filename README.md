@@ -29,7 +29,7 @@ Semester 1, Year 1 | Semester 2, Year 1 | Semester 1, Year 2 | Semester 2, Year 
 # Semester 1, Year 1
 Recommend Unit| University | Year | Supplementary Material | Alternative Units |
 :-- | :--: | :--: | :--: | :--:
-[6.0001 Introduction to Computer Science and Programming in Python](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1) | MIT | 2016 | [MIT OCW 6.0001 Course Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | [CS50: Introduction to Computer Science, Harvard, 2017](https://www.youtube.com/watch?v=z-OxzIC6pic&list=PLvJoKWRPIu8G6Si7LlvmBPA5rOJ9BA29R)
+[6.0001 Introduction to Computer Science and Programming in Python](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1) | MIT | 2016 | [MIT OCW 6.0001 Course Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | [CS50: Introduction to Computer Science \| Harvard \| 2017](https://www.youtube.com/watch?v=z-OxzIC6pic&list=PLvJoKWRPIu8G6Si7LlvmBPA5rOJ9BA29R)
 [a]() | [a]() | [a]() | [a]() | [a]()
 [a]() | [a]() | [a]() | [a]() | [a]()
 [a]() | [a]() | [a]() | [a]() | [a]()
