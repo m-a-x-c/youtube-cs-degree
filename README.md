@@ -82,30 +82,30 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	</tr>
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
-		<td align="center"><a href="">6.042J Mathematics for Computer Science</a></td>
-		<td align="center"><a href="">6.006 Introduction to Algorithms</a></td>
-		<td align="center"><a href="">6.046 Design and Analysis of Algorithms</a></td>
-		<td align="center"><a href="">6.851 Advanced Data Structures</a></td>
-	</tr>
-	<tr>
 		<td align="center"><a href="">MIT</a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-	</tr>
-	<tr>
+		<td align="center"><a href="">2016</a></td>
 		<td align="center"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT OCW 6.0001 Course Page</a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-	</tr>
-	<tr>
-		<td align="center"><a href="">18.01SC Single Variable Calculus</a></td>
 		<td align="center">
 			<ul><a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50: Introduction to Computer Science | Harvard | 2017</a></ul>
 		</td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
