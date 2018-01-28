@@ -7,30 +7,31 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 # Contents
 
 - [Summary](#summary)
-- [Semester 1, Year 1](#s1y1)
-- [Semester 2, Year 1](#s1y1)
-- [Semester 1, Year 1](#s2y1)
-- [Semester 2, Year 2](#s1y2)
-- [Semester 1, Year 2](#s2y2)
-- [Semester 2, Year 3](#s1y3)
-- [Semester 1, Year 3](#s2y3)
+- [More Information by Semester](#more-info-by-sem)
+	- [Semester 1, Year 1](#s1y1)
+	- [Semester 2, Year 1](#s1y1)
+	- [Semester 1, Year 1](#s2y1)
+	- [Semester 2, Year 2](#s1y2)
+	- [Semester 1, Year 2](#s2y2)
+	- [Semester 2, Year 3](#s1y3)
+	- [Semester 1, Year 3](#s2y3)
 
 
 # Summary
 
 <table>
 	<tr>
-		<td align="center" colspan="2">Year 1</td>
-		<td align="center" colspan="2">Year 2</td>
-		<td align="center" colspan="2"">Year 3</td>
+		<td align="center" colspan="2"><strong>Year 1</strong></td>
+		<td align="center" colspan="2"><strong>Year 2</strong></td>
+		<td align="center" colspan="2""><strong>Year 3</strong></td>
 	</tr>
 	<tr>
-		<td align="center">Semester 1</td>
-		<td align="center">Semester 2</td>
-		<td align="center">Semester 1</td>
-		<td align="center">Semester 2</td>
-		<td align="center">Semester 1</td>
-		<td align="center">Semester 2</td>
+		<td align="center"><strong>Semester 1</strong></td>
+		<td align="center"><strong>Semester 2</strong></td>
+		<td align="center"><strong>Semester 1</strong></td>
+		<td align="center"><strong>Semester 2</strong></td>
+		<td align="center"><strong>Semester 1</strong></td>
+		<td align="center"><strong>Semester 2</strong></td>
 	</tr>
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
@@ -71,12 +72,46 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 # More Infomation by Semester
 
 ## Semester 1, Year 1
-Recommend Unit| University | Year | Supplementary Material | Alternative Units |
-:-- | :--: | :--: | :--: | :--:
-[6.0001 Introduction to Computer Science and Programming in Python](https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1) | MIT | 2016 | [MIT OCW 6.0001 Course Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | [• CS50: Introduction to Computer Science \| Harvard \| 2017](https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu)
-[a]() | [a]() | [a]() | [a]() | [a]()
-[a]() | [a]() | [a]() | [a]() | [a]()
-[a]() | [a]() | [a]() | [a]() | [a]()
+<table>
+	<tr>
+		<td align="center"><strong>Recommend Unit</strong></td>
+		<td align="center"><strong>University</strong></td>
+		<td align="center"><strong>Year</strong></td>
+		<td align="center"><strong>Supplementary Material</strong></td>
+		<td align="center"><strong>Alternative Units</strong></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
+		<td align="center"><a href="">6.042J Mathematics for Computer Science</a></td>
+		<td align="center"><a href="">6.006 Introduction to Algorithms</a></td>
+		<td align="center"><a href="">6.046 Design and Analysis of Algorithms</a></td>
+		<td align="center"><a href="">6.851 Advanced Data Structures</a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="">MIT</a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT OCW 6.0001 Course Page</a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="">18.01SC Single Variable Calculus</a></td>
+		<td align="center">
+			<ul><a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50: Introduction to Computer Science | Harvard | 2017</a></ul>
+		</td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+
+
 
 ## Semester 2, Year 1
 
