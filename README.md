@@ -21,48 +21,48 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 <table>
 	<tr>
 		<td align="center" colspan="2">Year 1</td>
-		<td style="text-align: center;" colspan="2">Year 2</td>
-		<td style="text-align: center;" colspan="2"">Year 3</td>
+		<td align="center" colspan="2">Year 2</td>
+		<td align="center" colspan="2"">Year 3</td>
 	</tr>
 	<tr>
-		<td style="text-align: center;">Semester 1</td>
-		<td style="text-align: center;">Semester 2</td>
-		<td style="text-align: center;">Semester 1</td>
-		<td style="text-align: center;">Semester 2</td>
-		<td style="text-align: center;">Semester 1</td>
-		<td style="text-align: center;">Semester 2</td>
+		<td align="center">Semester 1</td>
+		<td align="center">Semester 2</td>
+		<td align="center">Semester 1</td>
+		<td align="center">Semester 2</td>
+		<td align="center">Semester 1</td>
+		<td align="center">Semester 2</td>
 	</tr>
 	<tr>
-		<td style="text-align: center;"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
-		<td style="text-align: center;"><a href="">6.042J Mathematics for Computer Science</a></td>
-		<td style="text-align: center;"><a href="">6.006 Introduction to Algorithms</a></td>
-		<td style="text-align: center;"><a href="">6.046 Design and Analysis of Algorithms</a></td>
-		<td style="text-align: center;"><a href="">6.851 Advanced Data Structures</a></td>
-		<td style="text-align: center;"><a href=""></a></td>
+		<td align="center"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
+		<td align="center"><a href="">6.042J Mathematics for Computer Science</a></td>
+		<td align="center"><a href="">6.006 Introduction to Algorithms</a></td>
+		<td align="center"><a href="">6.046 Design and Analysis of Algorithms</a></td>
+		<td align="center"><a href="">6.851 Advanced Data Structures</a></td>
+		<td align="center"><a href=""></a></td>
 	</tr>
 	<tr>
-		<td style="text-align: center;"><a href="">6.01SC Introduction to Electrical Engineering and Computer Science I</a></td>
-		<td style="text-align: center;"><a href=""></a></td>
-		<td style="text-align: center;"><a href=""></a></td>
-		<td style="text-align: center;"><a href=""></a></td>
-		<td style="text-align: center;"><a href=""></a></td>
-		<td style="text-align: center;"><a href=""></a></td>
+		<td align="center"><a href="">6.01SC Introduction to Electrical Engineering and Computer Science I</a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
 	</tr>
 	<tr>
-		<td style="text-align: center;"><a href="">CS 61A The Structure and Interpretation of Computer Programs</a></td>
-		<td style="text-align: center;"><a href=""></a></td>
-		<td style="text-align: center;"><a href=""></a></td>
-		<td style="text-align: center;"><a href=""></a></td>
-		<td style="text-align: center;"><a href=""></a></td>
-		<td style="text-align: center;"><a href=""></a></td>
+		<td align="center"><a href="">CS 61A The Structure and Interpretation of Computer Programs</a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
 	</tr>
 	<tr>
-		<td style="text-align: center;"><a href="">18.01SC Single Variable Calculus</a></td>
-		<td style="text-align: center;"><a href=""></a></td>
-		<td style="text-align: center;"><a href=""></a></td>
-		<td style="text-align: center;"><a href=""></a></td>
-		<td style="text-align: center;"><a href=""></a></td>
-		<td style="text-align: center;"><a href=""></a></td>
+		<td align="center"><a href="">18.01SC Single Variable Calculus</a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
 	</tr>
 
 </table>
