@@ -83,9 +83,9 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	</tr>
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
-		<td align="center"><a href="">6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.</a></td>
-		<td align="center"><a href="">MIT</a></td>
-		<td align="center"><a href="">2016</a></td>
+		<td align="center">Programming for students whoo have never programmed before.</td>
+		<td align="center">MIT</td>
+		<td align="center">2016</td>
 		<td align="center"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT OCW 6.0001 Course Page</a></td>
 		<td align="center">
 			•<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50: Introduction to Computer Science | Harvard | 2017</a>
@@ -93,25 +93,25 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	</tr>
 	<tr>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-	</tr>
-	<tr>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 	</tr>
 	<tr>
 		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
 		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 	</tr>
@@ -131,9 +131,9 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	</tr>
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
-		<td align="center"><a href="">6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.</a></td>
-		<td align="center"><a href="">MIT</a></td>
-		<td align="center"><a href="">2016</a></td>
+		<td align="center">Programming for students whoo have never programmed before.</td>
+		<td align="center">MIT</td>
+		<td align="center">2016</td>
 		<td align="center"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT OCW 6.0001 Course Page</a></td>
 		<td align="center">
 			•<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50: Introduction to Computer Science | Harvard | 2017</a>
@@ -141,30 +141,29 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	</tr>
 	<tr>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-	</tr>
-	<tr>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 	</tr>
 	<tr>
 		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
 		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 	</tr>
 </table>
-
 
 ## Semester 1, Year 2
 <table>
@@ -178,9 +177,9 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	</tr>
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
-		<td align="center"><a href="">6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.</a></td>
-		<td align="center"><a href="">MIT</a></td>
-		<td align="center"><a href="">2016</a></td>
+		<td align="center">Programming for students whoo have never programmed before.</td>
+		<td align="center">MIT</td>
+		<td align="center">2016</td>
 		<td align="center"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT OCW 6.0001 Course Page</a></td>
 		<td align="center">
 			•<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50: Introduction to Computer Science | Harvard | 2017</a>
@@ -188,30 +187,29 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	</tr>
 	<tr>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-	</tr>
-	<tr>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 	</tr>
 	<tr>
 		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
 		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 	</tr>
 </table>
-
 
 ## Semester 2, Year 2
 <table>
@@ -225,9 +223,9 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	</tr>
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
-		<td align="center"><a href="">6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.</a></td>
-		<td align="center"><a href="">MIT</a></td>
-		<td align="center"><a href="">2016</a></td>
+		<td align="center">Programming for students whoo have never programmed before.</td>
+		<td align="center">MIT</td>
+		<td align="center">2016</td>
 		<td align="center"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT OCW 6.0001 Course Page</a></td>
 		<td align="center">
 			•<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50: Introduction to Computer Science | Harvard | 2017</a>
@@ -235,30 +233,29 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	</tr>
 	<tr>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-	</tr>
-	<tr>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 	</tr>
 	<tr>
 		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
 		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 	</tr>
 </table>
-
 
 ## Semester 1, Year 3
 <table>
@@ -272,9 +269,9 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	</tr>
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
-		<td align="center"><a href="">6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.</a></td>
-		<td align="center"><a href="">MIT</a></td>
-		<td align="center"><a href="">2016</a></td>
+		<td align="center">Programming for students whoo have never programmed before.</td>
+		<td align="center">MIT</td>
+		<td align="center">2016</td>
 		<td align="center"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT OCW 6.0001 Course Page</a></td>
 		<td align="center">
 			•<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50: Introduction to Computer Science | Harvard | 2017</a>
@@ -282,30 +279,29 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	</tr>
 	<tr>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-	</tr>
-	<tr>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 	</tr>
 	<tr>
 		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
 		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 	</tr>
 </table>
-
 
 ## Semester 2, Year 3
 <table>
@@ -319,9 +315,9 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	</tr>
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
-		<td align="center"><a href="">6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.</a></td>
-		<td align="center"><a href="">MIT</a></td>
-		<td align="center"><a href="">2016</a></td>
+		<td align="center">Programming for students whoo have never programmed before.</td>
+		<td align="center">MIT</td>
+		<td align="center">2016</td>
 		<td align="center"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT OCW 6.0001 Course Page</a></td>
 		<td align="center">
 			•<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50: Introduction to Computer Science | Harvard | 2017</a>
@@ -329,27 +325,26 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	</tr>
 	<tr>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-	</tr>
-	<tr>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 	</tr>
 	<tr>
 		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
+	</tr>
+	<tr>
 		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 	</tr>
 </table>
-
