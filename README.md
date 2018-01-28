@@ -20,7 +20,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 
 <table>
 	<tr>
-		<td style="text-align: center;" colspan="2">Year 1</td>
+		<td align="center" colspan="2">Year 1</td>
 		<td style="text-align: center;" colspan="2">Year 2</td>
 		<td style="text-align: center;" colspan="2"">Year 3</td>
 	</tr>
