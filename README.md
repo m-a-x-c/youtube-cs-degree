@@ -104,8 +104,10 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href="https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf">COMPSCI 224 Advanced Algorithms</a></td>
 		<td align="center"></td>
 		<td align="center">2016 / Harvard</td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"></td>
+		<td align="center"><a href="http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html">COMPSCI 224 Course Page</a></td>
+		<td align="center">
+			<a href="https://www.youtube.com/watch?v=QnPl_Y6EqMo&list=PLiizAEBnotSzGvn-KqAEQ2xQVDXYw5Rdh">6.854J Advanced Algorithms | MIT | 2013</a>
+		</td>
 	</tr>
 
 <!-- 	<tr>
@@ -137,7 +139,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center">2016 / MIT</td>
 		<td align="center"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT OCW 6.0001 Course Page</a></td>
 		<td align="center">
-			<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50: Introduction to Computer Science | Harvard | 2017</a>
+			<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50 Introduction to Computer Science | Harvard | 2017</a>
 		</td>
 	</tr>
 	<tr>
