@@ -132,6 +132,34 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href=""></a></td>
 		<td align="center"></td>
 	</tr>
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=BtaVq2g17G0&list=PLUl4u3cNGP63ZWyJMdWIVtyweopUN3xt3">6.02 Introduction to EECS II: Digital Communication Systems</a></td>
+		<td align="center"></td>
+		<td align="center">2012 / MIT</td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLiizAEBnotSxwENcpA9U2AIEM_VUGCDvg">Information Theory, Pattern Recognition, and Neural Networks</a></td>
+		<td align="center"></td>
+		<td align="center">2003 / Cambridge</td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=JzpkXLH9zLQ&list=PLD2AE32F507F10481">6.172 Performance Engineering of Software Systems</a></td>
+		<td align="center"></td>
+		<td align="center">2010 / MIT</td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=vhIwuNJzVG4&list=PLE638294EA3288272">6.189 Multicore Programming Primer</a></td>
+		<td align="center"></td>
+		<td align="center">2007 / MIT</td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
 
 
 
