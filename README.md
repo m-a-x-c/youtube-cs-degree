@@ -105,7 +105,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href="https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf">COMPSCI 224 Advanced Algorithms</a></td>
 		<td align="center"></td>
 		<td align="center">2016 / Harvard</td>
-		<td align="center"><a href="http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html"></a>COMPSCI 224 Course Page</td>
+		<td align="center"><a href="http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html">COMPSCI 224 Course Page</a></td>
 		<td align="center">
 			<a href="https://www.youtube.com/watch?v=QnPl_Y6EqMo&list=PLiizAEBnotSzGvn-KqAEQ2xQVDXYw5Rdh">6.854J Advanced Algorithms | MIT | 2013</a>
 		</td>
