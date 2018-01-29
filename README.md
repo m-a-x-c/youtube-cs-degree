@@ -106,10 +106,10 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"></td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf">COMPSCI 224 Advanced Algorithms</a></td>
+		<td align="center"><a href="https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf">CS224 Advanced Algorithms</a></td>
 		<td align="center"></td>
 		<td align="center">2016 / Harvard</td>
-		<td align="center"><a href="http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html">COMPSCI 224 Course Page</a></td>
+		<td align="center"><a href="http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html">CS224 Course Page</a></td>
 		<td align="center">
 			<a href="https://www.youtube.com/watch?v=QnPl_Y6EqMo&list=PLiizAEBnotSzGvn-KqAEQ2xQVDXYw5Rdh">6.854J Advanced Algorithms | MIT | 2013</a>
 		</td>
@@ -121,7 +121,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href=""></a></td>
 		<td align="center">
 			<a href="https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599">CS229 Machine Learning | Stanford | 20XX</a><br>
-			<a href="https://www.youtube.com/watch?v=QnPl_Y6EqMo&list=PLiizAEBnotSzGvn-KqAEQ2xQVDXYw5Rdh">CPSC540 Machine learning | UBC | 2013</a>
+			<a href="https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6">CPSC540 Machine learning | UBC | 2013</a>
 		</td>
 	</tr>
 
