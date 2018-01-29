@@ -119,7 +119,9 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"></td>
 		<td align="center">2012 / Caltech</td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"></td>
+		<td align="center">
+			<a href="https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599">CS 229 Machine Learning | UBC | 20XX</a>
+		</td>
 	</tr>
 
 <!-- 	<tr>
