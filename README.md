@@ -79,7 +79,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><strong>Supplementary Material</strong></td>
 		<td align="center"><strong>Alternative Units</strong></td>
 	</tr>
-	
+
 	<tr>
 
 		<td align="center"><a href=""></a></td>
@@ -159,11 +159,226 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 </table>
 
 ## Semester 2, Year 1
+<table>
+	<tr>
+		<td align="center"><strong>Recommend Unit</strong></td>
+		<td align="center"><strong>Prerequisites</strong></td>
+		<td align="center"><strong>Year / University</strong></td>
+		<td align="center"><strong>Supplementary Material</strong></td>
+		<td align="center"><strong>Alternative Units</strong></td>
+	</tr>
+	
+	<tr>
+
+		<td align="center"><a href="https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B">6.042J Mathematics for Computer Science</a></td>
+		<td align="center">N/A</td>
+		<td align="center">2010 / MIT</td>
+		<td align="center"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/">MIT OCW 6.042J Course Page</a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+
+	<tr>
+
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+</table>
 
 ## Semester 1, Year 2
+<table>
+	<tr>
+		<td align="center"><strong>Recommend Unit</strong></td>
+		<td align="center"><strong>Prerequisites</strong></td>
+		<td align="center"><strong>Year / University</strong></td>
+		<td align="center"><strong>Supplementary Material</strong></td>
+		<td align="center"><strong>Alternative Units</strong></td>
+	</tr>
+	
+	<tr>
+
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+
+	<tr>
+
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+</table>
 
 ## Semester 2, Year 2
+<table>
+	<tr>
+		<td align="center"><strong>Recommend Unit</strong></td>
+		<td align="center"><strong>Prerequisites</strong></td>
+		<td align="center"><strong>Year / University</strong></td>
+		<td align="center"><strong>Supplementary Material</strong></td>
+		<td align="center"><strong>Alternative Units</strong></td>
+	</tr>
+	
+	<tr>
+
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+
+	<tr>
+
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+</table>
 
 ## Semester 1, Year 3
+<table>
+	<tr>
+		<td align="center"><strong>Recommend Unit</strong></td>
+		<td align="center"><strong>Prerequisites</strong></td>
+		<td align="center"><strong>Year / University</strong></td>
+		<td align="center"><strong>Supplementary Material</strong></td>
+		<td align="center"><strong>Alternative Units</strong></td>
+	</tr>
+	
+	<tr>
+
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+
+	<tr>
+
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+</table>
 
 ## Semester 2, Year 3
+<table>
+	<tr>
+		<td align="center"><strong>Recommend Unit</strong></td>
+		<td align="center"><strong>Prerequisites</strong></td>
+		<td align="center"><strong>Year / University</strong></td>
+		<td align="center"><strong>Supplementary Material</strong></td>
+		<td align="center"><strong>Alternative Units</strong></td>
+	</tr>
+	
+	<tr>
+
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+
+	<tr>
+
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center">N/A</td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"><a href=""></a></td>
+	</tr>
+</table>
