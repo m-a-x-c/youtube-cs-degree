@@ -1,5 +1,5 @@
 <h1 align="center">YouTube Computer Science Degree</h1>
-<h2 align="center">Path to a free and complete YouTube-based education in Computer Science</h2>
+<h2 align="center">Path to a free and complete YouTube-based University education in Computer Science</h2>
 
 # Introduction
 The main coursework for a typical Bachelor's degree in Computer Science is done in the first three years of the degree, with the fourth year used to do a thesis. This post is a guide for finding the complete set of lectures, on YouTube, for each unit done in the first three years. The lectures linked in this post are all complete sets from an entire semester which were attended by actual enrolled students. The opencourseware material is sourced from: Massachusetts Institute of Technology, Harvrd University, Stanford University, and University of California, Berkeley.
