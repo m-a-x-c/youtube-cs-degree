@@ -43,7 +43,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href=""></a></td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp">6.01SC Introduction to Electrical Engineering and Computer Science I</a></td>
+		<td align="center"><a href="https://www.youtube.com/watch?v=3S4cNfl0YF0&list=PL9B24A6A9D5754E70">6.01SC Introduction to Electrical Engineering and Computer Science I</a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
@@ -60,7 +60,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	</tr>
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=7K1sB05pE0A&list=PL39017AD85AC0EA05&index=2">18.01SC Single Variable Calculus</a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"><a href="https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38">18.02 Multivariable Calculus</a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
@@ -80,16 +80,16 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><strong>Alternative Units</strong></td>
 	</tr>
 	<tr>
-		<td align="center"><a href=""></a></td>
+		<td align="center"><a href="https://www.youtube.com/watch?v=pfDfriSjFbY&list=PLUl4u3cNGP61V4W6yRm1Am5zI94m33dXk">CMS.611J Creating Video Games</a></td>
 		<td align="center"></td>
-		<td align="center"></td>
+		<td align="center">2014 / MIT</td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"></td>
 	</tr>
 	<tr>
-		<td align="center"><a href=""></a></td>
+		<td align="center"><a href="https://www.youtube.com/watch?v=ilQ-tq772VI&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai ">CS 193P iPhone Application Development</a></td>
 		<td align="center"></td>
-		<td align="center"></td>
+		<td align="center">2017 / Stanford</td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"></td>
 	</tr>
