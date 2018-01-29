@@ -61,7 +61,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=7K1sB05pE0A&list=PL39017AD85AC0EA05&index=2">18.01SC Single Variable Calculus</a></td>
 		<td align="center"><a href="https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38">18.02 Multivariable Calculus</a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"><a href="https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8">18.06SC Linear Algebra</a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
@@ -87,12 +87,30 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"></td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=ilQ-tq772VI&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai ">CS 193P iPhone Application Development</a></td>
+		<td align="center"><a href="https://www.youtube.com/watch?v=ilQ-tq772VI&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai ">CS193P iPhone Application Development</a></td>
 		<td align="center"></td>
 		<td align="center">2017 / Stanford</td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"></td>
 	</tr>
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf">6.851 Advanced Data Structures</a></td>
+		<td align="center"></td>
+		<td align="center">2012 / MIT</td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf">COMPSCI 224 Advanced Algorithms</a></td>
+		<td align="center"></td>
+		<td align="center">2016 / Harvard</td>
+		<td align="center"><a href="http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html"></a>COMPSCI 224 Course Page</td>
+		<td align="center">
+			<a href="https://www.youtube.com/watch?v=QnPl_Y6EqMo&list=PLiizAEBnotSzGvn-KqAEQ2xQVDXYw5Rdh">6.854J Advanced Algorithms | MIT | 2013</a>
+		</td>
+	</tr>
+
 	<tr>
 		<td align="center"><a href=""></a></td>
 		<td align="center"></td>
@@ -100,6 +118,15 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href=""></a></td>
 		<td align="center"></td>
 	</tr>
+
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+
 	<tr>
 		<td align="center"><a href=""></a></td>
 		<td align="center"></td>
