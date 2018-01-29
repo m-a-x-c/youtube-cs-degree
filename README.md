@@ -162,8 +162,8 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 			<a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/">MIT OCW 6.0002 Course Page</a>
 		</td>
 		<td align="center">
-			<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50 Introduction to Computer Science | Harvard | 2017</a><br>
-			<a href="https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7">6.00SC Introduction to Computer Science and Programming | MIT | 2011</a>
+			•<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50 Introduction to Computer Science | Harvard | 2017</a><br>
+			•<a href="https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7">6.00SC Introduction to Computer Science and Programming | MIT | 2011</a>
 		</td>
 	</tr>
 	<tr>
