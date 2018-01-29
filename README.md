@@ -55,9 +55,9 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href=""></a></td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=GyN4FotAEt8&list=PLaLOVNqqD-2FrODVkCjm3DJB9HPfizUOo">Math 131A Introduction to Probability and Statistics</a></td>
+		<td align="center"><a href="https://www.youtube.com/watch?v=GyN4FotAEt8&list=PLaLOVNqqD-2FrODVkCjm3DJB9HPfizUOo">MATH131A Introduction to Probability and Statistics</a></td>
 		<td align="center"><a href="https://www.youtube.com/watch?v=wJGR5Y-Qqac&list=PLqOZ6FD_RQ7kcLcp0qHUDOp6f5JKmA8Aq
-">Math 131B Introduction to Probability and Statistics</a></td>
+">MATH131B Introduction to Probability and Statistics</a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
@@ -120,7 +120,8 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center">2012 / Caltech</td>
 		<td align="center"><a href=""></a></td>
 		<td align="center">
-			<a href="https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599">CS 229 Machine Learning | UBC | 20XX</a>
+			<a href="https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599">CS229 Machine Learning | Stanford | 20XX</a><br>
+			<a href="https://www.youtube.com/watch?v=QnPl_Y6EqMo&list=PLiizAEBnotSzGvn-KqAEQ2xQVDXYw5Rdh">CPSC540 Machine learning | UBC | 2013</a>
 		</td>
 	</tr>
 
