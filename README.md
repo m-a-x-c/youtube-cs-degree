@@ -50,7 +50,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href="https://www.youtube.com/watch?v=3S4cNfl0YF0&list=PL9B24A6A9D5754E70">6.01SC Introduction to Electrical Engineering and Computer Science I</a></td>
 		<td align="center"><a href="https://www.youtube.com/watch?v=9DWlqtsNGV0&list=PLm2yab1mVdsSedtjrEoLz0PdvtAUq25s3">6.004 Computation Structures</a></td>
 		<td align="center"><a href="https://www.youtube.com/watch?v=xjhQ0e9Hlds&index=1&list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x">15-445 Intro to Database Systems</a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"><a href="https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi">6.034 Artificial Intelligence</a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 	</tr>
@@ -59,8 +59,8 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href="https://www.youtube.com/watch?v=wJGR5Y-Qqac&list=PLqOZ6FD_RQ7kcLcp0qHUDOp6f5JKmA8Aq
 ">MATH131B Introduction to Probability and Statistics</a></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"><a href="https://www.youtube.com/watch?v=iMLh9MBj13M&list=PLXEcjDJ1Ogg6DLOSMYWeGclZzzONHgZwc">CS162 Operating Systems and System Programming</a></td>
+		<td align="center"><a href="https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh">6.858 Computer Systems Security</a></td>
 		<td align="center"><a href=""></a></td>
 	</tr>
 	<tr>
