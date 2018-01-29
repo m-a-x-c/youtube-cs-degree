@@ -96,7 +96,9 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"></td>
 		<td align="center">2017 / Stanford</td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"></td>
+		<td align="center">
+			• <a href="https://www.youtube.com/watch?v=9EXPgsCWgO0&list=PLSlcu3sMjsc_m79MzhUQsJB5AqwK72vae">CS164 Mobile Software Engineering | Harvard | 2013</a>
+		</td>
 	</tr>
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf">6.851 Advanced Data Structures</a></td>
@@ -160,6 +162,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href=""></a></td>
 		<td align="center"></td>
 	</tr>
+
 
 
 
