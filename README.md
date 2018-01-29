@@ -49,7 +49,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=3S4cNfl0YF0&list=PL9B24A6A9D5754E70">6.01SC Introduction to Electrical Engineering and Computer Science I</a></td>
 		<td align="center"><a href="https://www.youtube.com/watch?v=9DWlqtsNGV0&list=PLm2yab1mVdsSedtjrEoLz0PdvtAUq25s3">6.004 Computation Structures</a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"><a href="https://www.youtube.com/watch?v=xjhQ0e9Hlds&index=1&list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x">15-445 Intro to Database Systems</a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
@@ -159,6 +159,13 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href="https://www.youtube.com/watch?v=vhIwuNJzVG4&list=PLE638294EA3288272">6.189 Multicore Programming Primer</a></td>
 		<td align="center"></td>
 		<td align="center">2007 / MIT</td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=MyQzjba1beA&list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O">15-721 Advanced Database Systems</a></td>
+		<td align="center"></td>
+		<td align="center">2016 / CMU</td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"></td>
 	</tr>
