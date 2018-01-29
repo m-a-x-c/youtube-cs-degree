@@ -121,20 +121,19 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href=""></a></td>
 		<td align="center">
 			<a href="https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599">CS229 Machine Learning | Stanford | 20XX</a><br>
-			<a href="https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6">CPSC540 Machine learning | UBC | 2013</a>
+			<a href="https://www.youtube.com/watch?v=JTFWvcUnLz0&list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B">10-701 Introduction to Machine Learning | CMU | 2014</a>
+			<a href="https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6">CPSC540 Machine Learning | UBC | 2013</a>
 		</td>
 	</tr>
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=zcMnu-3wkWo&list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE">10-702 Statistical Machine Learning</a></td>
+		<td align="center"></td>
+		<td align="center">2016 / CMU</td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
 
-<!-- 	<tr>
-		<td align="center"><a href=""></a></td>
-		<td align="center"></td>
-		<td align="center"></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center">
-			<a href="https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599">CS 229 Machine Learning | UBC | 20XX</a>
-			<a href="https://www.youtube.com/watch?v=QnPl_Y6EqMo&list=PLiizAEBnotSzGvn-KqAEQ2xQVDXYw5Rdh">CPSC 540: Machine learning | UBC | 2013</a>
-		</td>
-	</tr> -->
+
 
 </table>
 
