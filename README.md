@@ -111,6 +111,17 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		</td>
 	</tr>
 
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A">CS156 Machine Learning</a></td>
+		<td align="center"></td>
+		<td align="center">2012 / Caltech</td>
+		<td align="center"><a href=""></a></td>
+		<td align="center">
+			<a href="https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599">CS 229 Machine Learning | UBC | 20XX</a>
+			<a href="https://www.youtube.com/watch?v=QnPl_Y6EqMo&list=PLiizAEBnotSzGvn-KqAEQ2xQVDXYw5Rdh">CPSC 540: Machine learning | UBC | 2013</a>
+		</td>
+	</tr>
+
 </table>
 
 # More Infomation by Semester
