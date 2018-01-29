@@ -111,7 +111,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center">2016 / Harvard</td>
 		<td align="center"><a href="http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html">CS224 Course Page</a></td>
 		<td align="center">
-			<a href="https://www.youtube.com/watch?v=QnPl_Y6EqMo&list=PLiizAEBnotSzGvn-KqAEQ2xQVDXYw5Rdh">6.854J Advanced Algorithms | MIT | 2013</a>
+			• <a href="https://www.youtube.com/watch?v=QnPl_Y6EqMo&list=PLiizAEBnotSzGvn-KqAEQ2xQVDXYw5Rdh">6.854J Advanced Algorithms | MIT | 2013</a>
 		</td>
 	</tr>
 	<tr>
@@ -120,9 +120,9 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center">2012 / Caltech</td>
 		<td align="center"><a href=""></a></td>
 		<td align="center">
-			<a href="https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599">CS229 Machine Learning | Stanford | 20XX</a><br>
-			<a href="https://www.youtube.com/watch?v=JTFWvcUnLz0&list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B">10-701 Introduction to Machine Learning | CMU | 2014</a><br>
-			<a href="https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6">CPSC540 Machine Learning | UBC | 2013</a>
+			• <a href="https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599">CS229 Machine Learning | Stanford | 20XX</a><br>
+			• <a href="https://www.youtube.com/watch?v=JTFWvcUnLz0&list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B">10-701 Introduction to Machine Learning | CMU | 2014</a><br>
+			• <a href="https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6">CPSC540 Machine Learning | UBC | 2013</a>
 		</td>
 	</tr>
 	<tr>
@@ -162,8 +162,8 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 			<a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/">MIT OCW 6.0002 Course Page</a>
 		</td>
 		<td align="center">
-			•<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50 Introduction to Computer Science | Harvard | 2017</a><br>
-			•<a href="https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7">6.00SC Introduction to Computer Science and Programming | MIT | 2011</a>
+			• <a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50 Introduction to Computer Science | Harvard | 2017</a><br>
+			• <a href="https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7">6.00SC Introduction to Computer Science and Programming | MIT | 2011</a>
 		</td>
 	</tr>
 	<tr>
