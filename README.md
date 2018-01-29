@@ -37,8 +37,8 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
 		<td align="center"><a href="">6.042J Mathematics for Computer Science</a></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"><a href="">https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLSX2U_ZE4Huk19DPn34oZlygPbsig380X</a>6.006 Introduction to Algorithms</td>
+		<td align="center"><a href="">https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp</a>6.046 Design and Analysis of Algorithms</td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 	</tr>
@@ -79,39 +79,33 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><strong>Supplementary Material</strong></td>
 		<td align="center"><strong>Alternative Units</strong></td>
 	</tr>
-
 	<tr>
-
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
-
 	<tr>
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
-
 	<tr>
-
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
-
 	<tr>
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
 </table>
 
@@ -167,39 +161,33 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><strong>Supplementary Material</strong></td>
 		<td align="center"><strong>Alternative Units</strong></td>
 	</tr>
-	
-	<tr>
-
-		<td align="center"><a href="https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B">6.042J Mathematics for Computer Science</a></td>
-		<td align="center">N/A</td>
-		<td align="center">2010 / MIT</td>
-		<td align="center"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/">MIT OCW 6.042J Course Page</a></td>
-		<td align="center"><a href=""></a></td>
-	</tr>
-
 	<tr>
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
-	</tr>
-
-	<tr>
-
-		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
 		<td align="center"></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
 	</tr>
-
 	<tr>
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+	<tr>
 		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
 </table>
 
@@ -212,39 +200,69 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><strong>Supplementary Material</strong></td>
 		<td align="center"><strong>Alternative Units</strong></td>
 	</tr>
-	
 	<tr>
-
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
-
 	<tr>
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
-
 	<tr>
-
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
-
 	<tr>
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+</table><table>
+	<tr>
+		<td align="center"><strong>Recommend Unit</strong></td>
+		<td align="center"><strong>Prerequisites</strong></td>
+		<td align="center"><strong>Year / University</strong></td>
+		<td align="center"><strong>Supplementary Material</strong></td>
+		<td align="center"><strong>Alternative Units</strong></td>
+	</tr>
+	<tr>
 		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
 </table>
 
@@ -257,39 +275,69 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><strong>Supplementary Material</strong></td>
 		<td align="center"><strong>Alternative Units</strong></td>
 	</tr>
-	
 	<tr>
-
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
-
 	<tr>
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
-
 	<tr>
-
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
-
 	<tr>
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+</table><table>
+	<tr>
+		<td align="center"><strong>Recommend Unit</strong></td>
+		<td align="center"><strong>Prerequisites</strong></td>
+		<td align="center"><strong>Year / University</strong></td>
+		<td align="center"><strong>Supplementary Material</strong></td>
+		<td align="center"><strong>Alternative Units</strong></td>
+	</tr>
+	<tr>
 		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+		<td align="center"></td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
 </table>
 
@@ -302,39 +350,33 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><strong>Supplementary Material</strong></td>
 		<td align="center"><strong>Alternative Units</strong></td>
 	</tr>
-	
 	<tr>
-
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
-
 	<tr>
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
-
 	<tr>
-
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
-
 	<tr>
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
 </table>
 
@@ -347,38 +389,32 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><strong>Supplementary Material</strong></td>
 		<td align="center"><strong>Alternative Units</strong></td>
 	</tr>
-	
 	<tr>
-
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
-
 	<tr>
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
-
 	<tr>
-
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
-
 	<tr>
 		<td align="center"><a href=""></a></td>
-		<td align="center">N/A</td>
+		<td align="center"></td>
 		<td align="center"></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
 	</tr>
 </table>
