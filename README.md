@@ -2,7 +2,7 @@
 <h2 align="center">Path to a free and complete YouTube-based university education in Computer Science</h2>
 
 # Introduction
-The main coursework for a typical Bachelor's degree in Computer Science is done in the first three years of the degree, with the fourth year used to do a thesis. This post is a guide for finding the complete set of lectures, on YouTube, for each unit done in the first three years. The lectures linked in this post are all complete sets from an entire semester which were attended by actual enrolled students. The opencourseware material is sourced from: Massachusetts Institute of Technology, Harvrd University, Stanford University, and University of California, Berkeley.
+The main coursework for a typical Bachelor's degree in Computer Science is done in the first three years of the degree, with the fourth year used to do a thesis. This post is a guide for finding the complete set of lectures, on YouTube, for each unit done in the first three years. The lectures linked in this post are all complete sets from an entire semester which were attended by actual enrolled students. The opencourseware material is sourced from: Massachusetts Institute of Technology, Harvrd University, Stanford University, University of California, Berkeley and University of California, Irvine.
 
 # Contents
 
@@ -44,15 +44,16 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	</tr>
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=3S4cNfl0YF0&list=PL9B24A6A9D5754E70">6.01SC Introduction to Electrical Engineering and Computer Science I</a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"><a href="https://www.youtube.com/watch?v=9DWlqtsNGV0&list=PLm2yab1mVdsSedtjrEoLz0PdvtAUq25s3">6.004 Computation Structures</a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 	</tr>
 	<tr>
-		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"><a href="https://www.youtube.com/watch?v=GyN4FotAEt8&list=PLaLOVNqqD-2FrODVkCjm3DJB9HPfizUOo">Math 131A Introduction to Probability and Statistics</a></td>
+		<td align="center"><a href="https://www.youtube.com/watch?v=wJGR5Y-Qqac&list=PLqOZ6FD_RQ7kcLcp0qHUDOp6f5JKmA8Aq
+">Math 131B Introduction to Probability and Statistics</a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
