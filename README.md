@@ -112,28 +112,13 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	</tr> -->
 
 	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf">COMPSCI 224 Advanced Algorithms</a></td>
+		<td align="center"><a href="https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf">6.851 Advanced Data Structures</a></td>
 		<td align="center"></td>
-		<td align="center"></td>
+		<td align="center">2012 / MIT</td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"></td>
 	</tr>
 
-	<tr>
-		<td align="center"><a href=""></a></td>
-		<td align="center"></td>
-		<td align="center"></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"></td>
-	</tr>
-
-	<tr>
-		<td align="center"><a href=""></a></td>
-		<td align="center"></td>
-		<td align="center"></td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"></td>
-	</tr>
 </table>
 
 # More Infomation by Semester
