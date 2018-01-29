@@ -35,7 +35,11 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><strong>Semester 2</strong></td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
+		<td align="center">
+			<a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a>
+			+
+			<a href="https://www.youtube.com/watch?v=C1lhuz6pZC0&list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd">6.0002 Introduction to Computational Thinking and Data Science</a>
+		</td>
 		<td align="center"><a href="https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B">6.042J Mathematics for Computer Science</a></td>
 		<td align="center"><a href="https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLSX2U_ZE4Huk19DPn34oZlygPbsig380X">6.006 Introduction to Algorithms</a></td>
 		<td align="center"><a href="https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp">6.046 Design and Analysis of Algorithms</a></td>
@@ -117,8 +121,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center">2012 / Caltech</td>
 		<td align="center"><a href=""></a></td>
 		<td align="center">
-			<a href="https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599">CS 229 Machine Learning | UBC | 20XX</a>
-			<a href="https://www.youtube.com/watch?v=QnPl_Y6EqMo&list=PLiizAEBnotSzGvn-KqAEQ2xQVDXYw5Rdh">CPSC 540: Machine learning | UBC | 2013</a>
+
 		</td>
 	</tr>
 
