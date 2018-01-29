@@ -121,7 +121,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href=""></a></td>
 		<td align="center">
 			<a href="https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599">CS229 Machine Learning | Stanford | 20XX</a><br>
-			<a href="https://www.youtube.com/watch?v=JTFWvcUnLz0&list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B">10-701 Introduction to Machine Learning | CMU | 2014</a>
+			<a href="https://www.youtube.com/watch?v=JTFWvcUnLz0&list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B">10-701 Introduction to Machine Learning | CMU | 2014</a><br>
 			<a href="https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6">CPSC540 Machine Learning | UBC | 2013</a>
 		</td>
 	</tr>
@@ -149,12 +149,20 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><strong>Alternative Units</strong></td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a></td>
+		<td align="center">
+			<a href="https://www.youtube.com/watch?v=ytpJdnlu9ug&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1">6.0001 Introduction to Computer Science and Programming in Python</a>
+			<br>+<br>
+			<a href="https://www.youtube.com/watch?v=C1lhuz6pZC0&list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd">6.0002 Introduction to Computational Thinking and Data Science</a>
+		</td>
 		<td align="center">N/A</td>
 		<td align="center">2016 / MIT</td>
-		<td align="center"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT OCW 6.0001 Course Page</a></td>
 		<td align="center">
-			<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50 Introduction to Computer Science | Harvard | 2017</a>
+			<a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">MIT OCW 6.0001 Course Page</a><br>
+			<a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/">MIT OCW 6.0002 Course Page</a>
+		</td>
+		<td align="center">
+			<a href="https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">CS50 Introduction to Computer Science | Harvard | 2017</a><br>
+			<a href="https://www.youtube.com/watch?v=bX3jvD7XFPs&list=PLB2BE3D6CA77BB8F7">6.00SC Introduction to Computer Science and Programming | MIT | 2011</a>
 		</td>
 	</tr>
 	<tr>
