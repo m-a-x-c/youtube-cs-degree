@@ -86,6 +86,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><strong>Supplementary Material</strong></td>
 		<td align="center"><strong>Alternative Units</strong></td>
 	</tr>
+	
 	<tr>
 		<td align="center"><strong>Recommend Unit</strong></td>
 		<td align="center"><strong>Prerequisites</strong></td>
