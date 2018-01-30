@@ -77,7 +77,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 
 # Electives
 
-##Artificial Intelligence
+## Artificial Intelligence
 <table>
 	<tr>
 		<td align="center"><strong>Recommend Unit</strong></td>
@@ -98,6 +98,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 			• <a href="https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6">CPSC540 Machine Learning | UBC | 2013</a>
 		</td>
 	</tr>
+
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=zcMnu-3wkWo&list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE">10-702 Statistical Machine Learning</a></td>
 		<td align="center"></td>
@@ -114,7 +115,6 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"></td>
 	</tr>
 
-
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6">CS224N Natural Language Processing with Deep Learning</a></td>
 		<td align="center"></td>
@@ -122,6 +122,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href="http://web.stanford.edu/class/cs224n/">CS224N Course Page</a></td>
 		<td align="center"></td>
 	</tr>
+
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv">CS231N Convolutional Neural Networks for Visual Recognition</a></td>
 		<td align="center"></td>
@@ -129,13 +130,10 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href="http://cs231n.stanford.edu/">CS231N Course Page</a></td>
 		<td align="center"></td>
 	</tr>
-
-
-
-
 </table>
 
-##Miscellaneous
+
+## Miscellaneous
 <table>
 	<tr>
 		<td align="center"><strong>Recommend Unit</strong></td>
@@ -144,6 +142,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><strong>Supplementary Material</strong></td>
 		<td align="center"><strong>Alternative Units</strong></td>
 	</tr>
+
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=pfDfriSjFbY&list=PLUl4u3cNGP61V4W6yRm1Am5zI94m33dXk">CMS.611J Creating Video Games</a></td>
 		<td align="center"></td>
@@ -151,6 +150,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href=""></a></td>
 		<td align="center"></td>
 	</tr>
+
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=ilQ-tq772VI&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai ">CS193P iPhone Application Development</a></td>
 		<td align="center"></td>
@@ -160,6 +160,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 			• <a href="https://www.youtube.com/watch?v=9EXPgsCWgO0&list=PLSlcu3sMjsc_m79MzhUQsJB5AqwK72vae">CS164 Mobile Software Engineering | Harvard | 2013</a>
 		</td>
 	</tr>
+
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf">6.851 Advanced Data Structures</a></td>
 		<td align="center"></td>
@@ -167,6 +168,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href=""></a></td>
 		<td align="center"></td>
 	</tr>
+
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf">CS224 Advanced Algorithms</a></td>
 		<td align="center"></td>
@@ -193,6 +195,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href=""></a></td>
 		<td align="center"></td>
 	</tr>
+
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=vhIwuNJzVG4&list=PLE638294EA3288272">6.189 Multicore Programming Primer</a></td>
 		<td align="center"></td>
@@ -200,6 +203,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href=""></a></td>
 		<td align="center"></td>
 	</tr>
+
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=MyQzjba1beA&list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O">15-721 Advanced Database Systems</a></td>
 		<td align="center"></td>
@@ -207,11 +211,6 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href=""></a></td>
 		<td align="center"></td>
 	</tr>
-
-
-
-
-
 </table>
 
 
