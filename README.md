@@ -47,7 +47,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href="https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLSX2U_ZE4Huk19DPn34oZlygPbsig380X">6.006 Introduction to Algorithms</a></td>
 		<td align="center"><a href="https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp">6.046 Design and Analysis of Algorithms</a></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"><a href="">Elective</a></td>
 	</tr>
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=3S4cNfl0YF0&list=PL9B24A6A9D5754E70">6.01SC Introduction to Electrical Engineering and Computer Science I</a></td>
@@ -55,7 +55,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href="https://www.youtube.com/watch?v=xjhQ0e9Hlds&index=1&list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x">15-445 Intro to Database Systems</a></td>
 		<td align="center"><a href="https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi">6.034 Artificial Intelligence</a></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"><a href="">Elective</a></td>
 	</tr>
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=GyN4FotAEt8&list=PLaLOVNqqD-2FrODVkCjm3DJB9HPfizUOo">MATH131A Introduction to Probability and Statistics</a></td>
@@ -64,7 +64,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href="https://www.youtube.com/watch?v=iMLh9MBj13M&list=PLXEcjDJ1Ogg6DLOSMYWeGclZzzONHgZwc">CS162 Operating Systems and System Programming</a></td>
 		<td align="center"><a href="https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh">6.858 Computer Systems Security</a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"><a href="">Elective</a></td>
 	</tr>
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=7K1sB05pE0A&list=PL39017AD85AC0EA05&index=2">18.01SC Single Variable Calculus</a></td>
@@ -72,7 +72,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href="https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8">18.06SC Linear Algebra</a></td>
 		<td align="center"><a href=""></a></td>
 		<td align="center"><a href=""></a></td>
-		<td align="center"><a href=""></a></td>
+		<td align="center"><a href="">Elective</a></td>
 	</tr>
 
 </table>
