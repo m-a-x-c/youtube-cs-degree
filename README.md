@@ -8,6 +8,9 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 
 - [Summary](#summary)
 - [Electives](#electives)
+	- [Advanced Computer Science](#elective-acs)
+	- [Artificial Intelligence](#elective-ai)
+	- [Miscellaneous](#elective-misc)
 - [More Information by Semester](#more-info-by-sem)
 	- [Semester 1, Year 1](#s1y1)
 	- [Semester 2, Year 1](#s1y1)
@@ -76,6 +79,33 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 
 
 # Electives
+
+## Advanced Computer Science
+<table>
+	<tr>
+		<td align="center"><strong>Recommend Unit</strong></td>
+		<td align="center"><strong>Prerequisites</strong></td>
+		<td align="center"><strong>Year / University</strong></td>
+		<td align="center"><strong>Supplementary Material</strong></td>
+		<td align="center"><strong>Alternative Units</strong></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf">6.851 Advanced Data Structures</a></td>
+		<td align="center"></td>
+		<td align="center">2012 / MIT</td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf">CS224 Advanced Algorithms</a></td>
+		<td align="center"></td>
+		<td align="center">2016 / Harvard</td>
+		<td align="center"><a href="http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html">CS224 Course Page</a></td>
+		<td align="center">
+			• <a href="https://www.youtube.com/watch?v=QnPl_Y6EqMo&list=PLiizAEBnotSzGvn-KqAEQ2xQVDXYw5Rdh">6.854J Advanced Algorithms | MIT | 2013</a>
+		</td>
+	</tr>
+</table>
 
 ## Artificial Intelligence
 <table>
@@ -151,22 +181,6 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href=""></a></td>
 		<td align="center">
 			• <a href="https://www.youtube.com/watch?v=9EXPgsCWgO0&list=PLSlcu3sMjsc_m79MzhUQsJB5AqwK72vae">CS164 Mobile Software Engineering | Harvard | 2013</a>
-		</td>
-	</tr>
-	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf">6.851 Advanced Data Structures</a></td>
-		<td align="center"></td>
-		<td align="center">2012 / MIT</td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"></td>
-	</tr>
-	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf">CS224 Advanced Algorithms</a></td>
-		<td align="center"></td>
-		<td align="center">2016 / Harvard</td>
-		<td align="center"><a href="http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html">CS224 Course Page</a></td>
-		<td align="center">
-			• <a href="https://www.youtube.com/watch?v=QnPl_Y6EqMo&list=PLiizAEBnotSzGvn-KqAEQ2xQVDXYw5Rdh">6.854J Advanced Algorithms | MIT | 2013</a>
 		</td>
 	</tr>
 	<tr>
