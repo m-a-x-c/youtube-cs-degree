@@ -76,6 +76,66 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 
 
 # Electives
+
+##Artificial Intelligence
+<table>
+	<tr>
+		<td align="center"><strong>Recommend Unit</strong></td>
+		<td align="center"><strong>Prerequisites</strong></td>
+		<td align="center"><strong>Year / University</strong></td>
+		<td align="center"><strong>Supplementary Material</strong></td>
+		<td align="center"><strong>Alternative Units</strong></td>
+	</tr>
+
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A">CS156 Machine Learning</a></td>
+		<td align="center"></td>
+		<td align="center">2012 / Caltech</td>
+		<td align="center"><a href=""></a></td>
+		<td align="center">
+			• <a href="https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599">CS229 Machine Learning | Stanford | 20XX</a><br>
+			• <a href="https://www.youtube.com/watch?v=JTFWvcUnLz0&list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B">10-701 Introduction to Machine Learning | CMU | 2014</a><br>
+			• <a href="https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6">CPSC540 Machine Learning | UBC | 2013</a>
+		</td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=zcMnu-3wkWo&list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE">10-702 Statistical Machine Learning</a></td>
+		<td align="center"></td>
+		<td align="center">2016 / CMU</td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLiizAEBnotSxwENcpA9U2AIEM_VUGCDvg">Information Theory, Pattern Recognition, and Neural Networks</a></td>
+		<td align="center"></td>
+		<td align="center">2003 / Cambridge</td>
+		<td align="center"><a href=""></a></td>
+		<td align="center"></td>
+	</tr>
+
+
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6">CS224N Natural Language Processing with Deep Learning</a></td>
+		<td align="center"></td>
+		<td align="center">2017 / Stanford</td>
+		<td align="center"><a href="http://web.stanford.edu/class/cs224n/">CS224N Course Page</a></td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv">CS231N Convolutional Neural Networks for Visual Recognition</a></td>
+		<td align="center"></td>
+		<td align="center">2017 / Stanford</td>
+		<td align="center"><a href="http://cs231n.stanford.edu/">CS231N Course Page</a></td>
+		<td align="center"></td>
+	</tr>
+
+
+
+
+</table>
+
+##Miscellaneous
 <table>
 	<tr>
 		<td align="center"><strong>Recommend Unit</strong></td>
@@ -116,24 +176,8 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 			• <a href="https://www.youtube.com/watch?v=QnPl_Y6EqMo&list=PLiizAEBnotSzGvn-KqAEQ2xQVDXYw5Rdh">6.854J Advanced Algorithms | MIT | 2013</a>
 		</td>
 	</tr>
-	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A">CS156 Machine Learning</a></td>
-		<td align="center"></td>
-		<td align="center">2012 / Caltech</td>
-		<td align="center"><a href=""></a></td>
-		<td align="center">
-			• <a href="https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599">CS229 Machine Learning | Stanford | 20XX</a><br>
-			• <a href="https://www.youtube.com/watch?v=JTFWvcUnLz0&list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B">10-701 Introduction to Machine Learning | CMU | 2014</a><br>
-			• <a href="https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6">CPSC540 Machine Learning | UBC | 2013</a>
-		</td>
-	</tr>
-	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=zcMnu-3wkWo&list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE">10-702 Statistical Machine Learning</a></td>
-		<td align="center"></td>
-		<td align="center">2016 / CMU</td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"></td>
-	</tr>
+
+
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=BtaVq2g17G0&list=PLUl4u3cNGP63ZWyJMdWIVtyweopUN3xt3">6.02 Introduction to EECS II: Digital Communication Systems</a></td>
 		<td align="center"></td>
@@ -141,13 +185,7 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href=""></a></td>
 		<td align="center"></td>
 	</tr>
-	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLiizAEBnotSxwENcpA9U2AIEM_VUGCDvg">Information Theory, Pattern Recognition, and Neural Networks</a></td>
-		<td align="center"></td>
-		<td align="center">2003 / Cambridge</td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"></td>
-	</tr>
+
 	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=JzpkXLH9zLQ&list=PLD2AE32F507F10481">6.172 Performance Engineering of Software Systems</a></td>
 		<td align="center"></td>
@@ -169,25 +207,16 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		<td align="center"><a href=""></a></td>
 		<td align="center"></td>
 	</tr>
-	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6">CS224N Natural Language Processing with Deep Learning</a></td>
-		<td align="center"></td>
-		<td align="center">2017 / Stanford</td>
-		<td align="center"><a href="http://web.stanford.edu/class/cs224n/">CS224N Course Page</a></td>
-		<td align="center"></td>
-	</tr>
-	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv">CS231N Convolutional Neural Networks for Visual Recognition</a></td>
-		<td align="center"></td>
-		<td align="center">2017 / Stanford</td>
-		<td align="center"><a href="http://cs231n.stanford.edu/">CS231N Course Page</a></td>
-		<td align="center"></td>
-	</tr>
+
 
 
 
 
 </table>
+
+
+
+
 
 # More Infomation by Semester
 
