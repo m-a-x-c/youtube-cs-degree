@@ -88,11 +88,11 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 	</tr>
 
 	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A">CS156 Machine Learning</a></td>
-		<td align="center"></td>
-		<td align="center">2012 / Caltech</td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"></td>
+		<td align="center"><strong>Recommend Unit</strong></td>
+		<td align="center"><strong>Prerequisites</strong></td>
+		<td align="center"><strong>Year / University</strong></td>
+		<td align="center"><strong>Supplementary Material</strong></td>
+		<td align="center"><strong>Alternative Units</strong></td>
 	</tr>
 
 </table>
