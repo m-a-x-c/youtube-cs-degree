@@ -99,37 +99,6 @@ The main coursework for a typical Bachelor's degree in Computer Science is done 
 		</td>
 	</tr>
 
-	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=zcMnu-3wkWo&list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE">10-702 Statistical Machine Learning</a></td>
-		<td align="center"></td>
-		<td align="center">2016 / CMU</td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"></td>
-	</tr>
-
-	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLiizAEBnotSxwENcpA9U2AIEM_VUGCDvg">Information Theory, Pattern Recognition, and Neural Networks</a></td>
-		<td align="center"></td>
-		<td align="center">2003 / Cambridge</td>
-		<td align="center"><a href=""></a></td>
-		<td align="center"></td>
-	</tr>
-
-	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6">CS224N Natural Language Processing with Deep Learning</a></td>
-		<td align="center"></td>
-		<td align="center">2017 / Stanford</td>
-		<td align="center"><a href="http://web.stanford.edu/class/cs224n/">CS224N Course Page</a></td>
-		<td align="center"></td>
-	</tr>
-
-	<tr>
-		<td align="center"><a href="https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv">CS231N Convolutional Neural Networks for Visual Recognition</a></td>
-		<td align="center"></td>
-		<td align="center">2017 / Stanford</td>
-		<td align="center"><a href="http://cs231n.stanford.edu/">CS231N Course Page</a></td>
-		<td align="center"></td>
-	</tr>
 </table>
 
 
